@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+| Feb 1   | https://en.wikipedia.org/wiki/Special:Contributions/Jn1917    |  Wiki contribution   |   Updated information on a professional Lithuanian basketball player   |
 | Feb 3   | https://github.com/nyu-ossd-s20/kmaraj-weekly/issues/1    | classmate blog    |   Posted an issue regarding weekly post title.    |
-|     |     |     |      |
 |     |     |     |      |
