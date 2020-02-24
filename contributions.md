@@ -24,3 +24,4 @@ Replace the first row with your own contribution.
 | Feb 3   | https://github.com/nyu-ossd-s20/kmaraj-weekly/issues/1    | Classmate blog    |   Posted an issue regarding weekly post title.    |
 | Feb 11  | https://github.com/joannakl/ossd_s20/issues/12    |  Course website   |  Posted an issue regarding daily schedules on course website    |
 | Feb 20  | [Link to the commit](https://www.openstreetmap.org/changeset/81253606#map=19/54.68413/25.28576) | OpenStreetMap | Added company's (Turing Studio) office building, which was previously unmarked |
+| Feb 23  | https://www.openstreetmap.org/changeset/81379118 | OpenStreetMap | Added a pizza restaurant's "Emmy Squared" East Village location |
