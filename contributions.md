@@ -27,4 +27,4 @@ Replace the first row with your own contribution.
 | Feb 23  | [Link to the changeset](https://www.openstreetmap.org/changeset/81379118) | OpenStreetMap | Added a pizza restaurant's "Emmy Squared" East Village location |
 | Feb 26  | [Link to the issue](https://github.com/nyu-ossd-s20/mattfan00-weekly/issues/1) | Classmate blog  | Posted an issue regarding spelling error in contributions page |
 | Mar 9   | [Link to the changeset](https://www.openstreetmap.org/changeset/81942409) | OpenStreetMap   | Added the location of the corporate office of Wix.com |
-| Mar 29  | [Link to the issue](https://github.com/processing/p5.js-website/issues/639) | GitHub    | Posted an issue regarding **p5.js** website |
+| Mar 29  | [Link to the issue](https://github.com/processing/p5.js-website/issues/639) | GitHub issue   | Posted an issue regarding **p5.js** website |
